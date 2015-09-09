@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pastebin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DevKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Visibility" Type="System.String" Scope="User">
+      <Value Profile="(Default)">private</Value>
+    </Setting>
+    <Setting Name="PastebinLoginUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://pastebin.com/api/api_login.php</Value>
+    </Setting>
+    <Setting Name="PastebinPostUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://pastebin.com/api/api_post.php</Value>
+    </Setting>
+    <Setting Name="ListFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Title: Key</Value>
+    </Setting>
+    <Setting Name="PastebinRAWUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://pastebin.com/raw.php?i=</Value>
+    </Setting>
+    <Setting Name="Expiration" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
